@@ -46,5 +46,4 @@ csv.each do |row|
 end
 f.close
 
-#{ "This is ApacheBench, Version 2.3 <$Revision"=>"655654 $>", "Server Software"=>"Apache/2.2.8", "Server Hostname"=>"www.flatz.jp", "Server Port"=>"80", "Document Path"=>"/", "Document Length"=>"17617 bytes", "Concurrency Level"=>"1", "Time taken for tests"=>"0.258 seconds", "Complete requests"=>"1", "Failed requests"=>"0", "Write errors"=>"0", "Total transferred"=>"17937 bytes", "HTML transferred"=>"17617 bytes", "Requests per second"=>"3.88 [#/sec] (mean)", "Time per request"=>"257.995 [ms] (mean, across all concurrent requests)", "Transfer rate"=>"67.90 [Kbytes/sec] received", "Connect"=>"230  230   0.0    230     230", "Processing"=>"28   28   0.0     28      28", "Waiting"=>"0    0   0.0      0       0", "Total"=>"258  258   0.0    258     258"}
 
